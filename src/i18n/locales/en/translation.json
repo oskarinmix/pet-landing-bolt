@@ -1,0 +1,245 @@
+{
+  "brand": {
+    "name": "My Pet Finder"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "buyNow": "Buy Now"
+  },
+  "partners": {
+    "title": "Official Partners & Distributors",
+    "subtitle": "Global Network",
+    "description": "Join our network of trusted partners and distributors who help bring SmartPet Tag to pet owners worldwide.",
+    "learnMore": "Learn More",
+    "becomePartner": "Become a Partner",
+    "types": {
+      "retailer": "Authorized Retailer",
+      "veterinary": "Veterinary Partner",
+      "distributor": "Official Distributor",
+      "association": "Pet Association"
+    }
+  },
+  "hero": {
+    "trusted": "🐾 Trusted by 50,000+ Pet Parents Worldwide",
+    "title": "Your Pet's Safety in",
+    "titleHighlight": "One Scan",
+    "description": "Revolutionize your pet's safety with our QR and NFC-enabled smart tag. Instant notifications, real-time location tracking, and peace of mind for every pet owner.",
+    "shopNow": "Shop Now",
+    "watchVideo": "Watch How It Works",
+    "stats": {
+      "happyPets": "Happy Pets",
+      "uptime": "Uptime",
+      "reunions": "Reunions"
+    }
+  },
+  "features": {
+    "title": "Smart Features for",
+    "titleHighlight": "Smarter",
+    "subtitle": "Pet Care",
+    "description": "Discover how SmartPet Tag combines cutting-edge technology with practical features to keep your pets safe and connected.",
+    "items": {
+      "durableDesign": {
+        "title": "Durable Design",
+        "description": "Waterproof and lightweight construction built to last"
+      },
+      "noBatteries": {
+        "title": "No Batteries Required",
+        "description": "Powered by QR and NFC technology for hassle-free use"
+      },
+      "instantAccess": {
+        "title": "Instant Access",
+        "description": "Quick access to pet profile and emergency contacts"
+      },
+      "notifications": {
+        "title": "Real-time Notifications",
+        "description": "Get instant alerts with GPS location when your pet is found"
+      },
+      "multilingual": {
+        "title": "Multilingual Support",
+        "description": "Break language barriers with our international interface"
+      },
+      "easyUpdates": {
+        "title": "Easy Updates",
+        "description": "Update pet profile instantly from any device"
+      },
+      "healthRecords": {
+        "title": "Health Records",
+        "description": "Store important medical information and vaccination records"
+      },
+      "privacy": {
+        "title": "Privacy Controls",
+        "description": "You decide what information to share and with whom"
+      }
+    },
+    "exploreAll": "Explore All Features"
+  },
+  "howItWorks": {
+    "title": "How SmartPet Tag Works",
+    "description": "Getting started is simple. Follow these easy steps to protect your pet with cutting-edge technology.",
+    "steps": {
+      "createProfile": {
+        "title": "Create Profile",
+        "description": "Set up your pet's profile with photos, health info, and emergency contacts"
+      },
+      "attachTag": {
+        "title": "Attach Tag",
+        "description": "Simply attach the SmartPet Tag to your pet's existing collar"
+      },
+      "scanning": {
+        "title": "Easy Scanning",
+        "description": "Anyone can scan the QR code or tap the NFC tag to access your pet's profile"
+      },
+      "alerts": {
+        "title": "Instant Alerts",
+        "description": "Get immediate notifications when someone scans your pet's tag"
+      },
+      "location": {
+        "title": "Location Updates",
+        "description": "Receive real-time location data when your pet is found"
+      }
+    }
+  },
+  "stats": {
+    "happyOwners": {
+      "value": "50,000+",
+      "label": "Happy Pet Owners"
+    },
+    "petsProtected": {
+      "value": "10,000+",
+      "label": "Pets Protected"
+    },
+    "reunions": {
+      "value": "5,000+",
+      "label": "Successful Reunions"
+    },
+    "uptime": {
+      "value": "99.9%",
+      "label": "Uptime Reliability"
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by Pet Owners Worldwide",
+    "description": "Join thousands of happy pet owners who trust SmartPet Tag to keep their furry friends safe.",
+    "reviews": {
+      "sarah": {
+        "name": "Sarah Johnson",
+        "location": "New York, NY",
+        "text": "SmartPet Tag helped me find my dog Luna within hours when she got lost during our vacation. The instant notifications and GPS location feature are absolutely incredible!"
+      },
+      "michael": {
+        "name": "Michael Chen",
+        "location": "San Francisco, CA",
+        "text": "As a veterinarian, I recommend SmartPet Tag to all my clients. It's the most reliable and technologically advanced pet identification solution I've seen."
+      },
+      "emily": {
+        "name": "Emily Rodriguez",
+        "location": "Miami, FL",
+        "text": "The peace of mind this tag gives me is priceless. Knowing that anyone who finds my cat can instantly access his medical information and contact me is so reassuring."
+      }
+    }
+  },
+  "blog": {
+    "title": "Latest from Our Blog",
+    "description": "Stay informed with the latest pet care tips and technology updates.",
+    "readMore": "Read More",
+    "posts": {
+      "travelTips": {
+        "title": "5 Tips to Keep Your Pet Safe While Traveling",
+        "excerpt": "Essential advice for pet owners who love to travel with their furry friends.",
+        "category": "Pet Safety",
+        "readTime": "5 min read"
+      },
+      "gameChanger": {
+        "title": "Why SmartPet Tag is a Game Changer for Pet Owners",
+        "excerpt": "Discover how modern technology is revolutionizing pet identification and safety.",
+        "category": "Technology",
+        "readTime": "4 min read"
+      },
+      "comparison": {
+        "title": "Understanding Pet Microchips vs. Smart Tags",
+        "excerpt": "A comprehensive comparison of different pet identification methods.",
+        "category": "Education",
+        "readTime": "6 min read"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about SmartPet Tag.",
+    "questions": {
+      "updateInfo": {
+        "question": "How do I update my pet's information?",
+        "answer": "Simply log in to your SmartPet Tag account and update your pet's profile. Changes are instant and will be immediately available when someone scans your pet's tag."
+      },
+      "waterproof": {
+        "question": "Is the SmartPet Tag waterproof?",
+        "answer": "Yes! Our tags are completely waterproof and designed to withstand all weather conditions and active pet lifestyles."
+      },
+      "foundPet": {
+        "question": "What happens if someone finds my pet?",
+        "answer": "When someone scans your pet's tag, they'll see your pet's profile with the contact information you've chosen to display. You'll receive an instant notification with their location."
+      },
+      "smartphone": {
+        "question": "Do I need a smartphone to use SmartPet Tag?",
+        "answer": "While a smartphone makes it easier to manage your pet's profile, anyone with any device that can scan QR codes or read NFC tags can access your pet's information in an emergency."
+      },
+      "damaged": {
+        "question": "What if the tag gets damaged or lost?",
+        "answer": "We offer a one-time free replacement within the first year. After that, you can easily order a replacement tag and transfer your pet's profile to the new tag."
+      },
+      "security": {
+        "question": "Is my pet's information secure?",
+        "answer": "Yes! You control exactly what information is visible to the public. Sensitive details are encrypted and protected by bank-level security."
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Join Our Community",
+    "description": "Subscribe to receive pet care tips, product updates, and exclusive offers. Get 10% off your first SmartPet Tag!",
+    "placeholder": "Enter your email",
+    "button": "Subscribe",
+    "disclaimer": "By subscribing, you agree to our Privacy Policy and Terms of Service."
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press",
+      "blog": "Blog"
+    },
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "howItWorks": "How It Works",
+      "faq": "FAQ"
+    },
+    "resources": {
+      "title": "Resources",
+      "petSafety": "Pet Safety Guide",
+      "support": "Support Center",
+      "partners": "Partners",
+      "contact": "Contact Us"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "shipping": "Shipping Policy"
+    },
+    "tagline": "Revolutionizing pet safety with smart technology. Keep your furry friends safe and connected, anywhere in the world.",
+    "copyright": "© {year} SmartPet Tag. All rights reserved."
+  },
+  "language": {
+    "en": "English",
+    "es": "Español"
+  }
+}

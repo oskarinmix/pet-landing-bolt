@@ -1,0 +1,22 @@
+# Build stage
+FROM node:20-alpine
+
+WORKDIR /app
+
+# Copy package files
+COPY package*.json ./
+
+# Install dependencies
+RUN npm ci
+
+# Copy source code
+COPY . .
+
+# Build the application
+RUN npm run build
+
+# Expose the port that Vite uses
+EXPOSE 5473
+
+# Start the Vite preview server
+CMD ["npm", "run", "vite"]

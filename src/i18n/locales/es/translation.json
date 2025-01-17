@@ -1,0 +1,245 @@
+{
+  "brand": {
+    "name": "SmartPet Tag"
+  },
+  "nav": {
+    "features": "Características",
+    "howItWorks": "Cómo Funciona",
+    "testimonials": "Testimonios",
+    "blog": "Blog",
+    "gallery": "Galería",
+    "faq": "Preguntas Frecuentes",
+    "contact": "Contacto",
+    "buyNow": "Comprar Ahora"
+  },
+  "partners": {
+    "title": "Socios y Distribuidores Oficiales",
+    "subtitle": "Red Global",
+    "description": "Únete a nuestra red de socios y distribuidores de confianza que ayudan a llevar SmartPet Tag a dueños de mascotas en todo el mundo.",
+    "learnMore": "Más Información",
+    "becomePartner": "Conviértete en Socio",
+    "types": {
+      "retailer": "Minorista Autorizado",
+      "veterinary": "Socio Veterinario",
+      "distributor": "Distribuidor Oficial",
+      "association": "Asociación de Mascotas"
+    }
+  },
+  "hero": {
+    "trusted": "🐾 Confiado por más de 50.000 dueños de mascotas en todo el mundo",
+    "title": "La seguridad de tu mascota en",
+    "titleHighlight": "Un Escaneo",
+    "description": "Revoluciona la seguridad de tu mascota con nuestra etiqueta inteligente con QR y NFC. Notificaciones instantáneas, seguimiento de ubicación en tiempo real y tranquilidad para cada dueño de mascota.",
+    "shopNow": "Comprar Ahora",
+    "watchVideo": "Ver Cómo Funciona",
+    "stats": {
+      "happyPets": "Mascotas Felices",
+      "uptime": "Disponibilidad",
+      "reunions": "Reencuentros"
+    }
+  },
+  "features": {
+    "title": "Características Inteligentes para un",
+    "titleHighlight": "Mejor",
+    "subtitle": "Cuidado de Mascotas",
+    "description": "Descubre cómo SmartPet Tag combina tecnología de vanguardia con características prácticas para mantener a tus mascotas seguras y conectadas.",
+    "items": {
+      "durableDesign": {
+        "title": "Diseño Duradero",
+        "description": "Construcción impermeable y ligera hecha para durar"
+      },
+      "noBatteries": {
+        "title": "Sin Baterías",
+        "description": "Funciona con tecnología QR y NFC sin complicaciones"
+      },
+      "instantAccess": {
+        "title": "Acceso Instantáneo",
+        "description": "Acceso rápido al perfil de la mascota y contactos de emergencia"
+      },
+      "notifications": {
+        "title": "Notificaciones en Tiempo Real",
+        "description": "Recibe alertas instantáneas con ubicación GPS cuando encuentren a tu mascota"
+      },
+      "multilingual": {
+        "title": "Soporte Multilingüe",
+        "description": "Rompe las barreras del idioma con nuestra interfaz internacional"
+      },
+      "easyUpdates": {
+        "title": "Actualizaciones Fáciles",
+        "description": "Actualiza el perfil de tu mascota al instante desde cualquier dispositivo"
+      },
+      "healthRecords": {
+        "title": "Registros de Salud",
+        "description": "Almacena información médica importante y registros de vacunación"
+      },
+      "privacy": {
+        "title": "Controles de Privacidad",
+        "description": "Tú decides qué información compartir y con quién"
+      }
+    },
+    "exploreAll": "Explorar Todas las Características"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona SmartPet Tag",
+    "description": "Comenzar es simple. Sigue estos sencillos pasos para proteger a tu mascota con tecnología de vanguardia.",
+    "steps": {
+      "createProfile": {
+        "title": "Crear Perfil",
+        "description": "Configura el perfil de tu mascota con fotos, información de salud y contactos de emergencia"
+      },
+      "attachTag": {
+        "title": "Colocar la Etiqueta",
+        "description": "Simplemente coloca el SmartPet Tag en el collar existente de tu mascota"
+      },
+      "scanning": {
+        "title": "Escaneo Fácil",
+        "description": "Cualquiera puede escanear el código QR o tocar la etiqueta NFC para acceder al perfil de tu mascota"
+      },
+      "alerts": {
+        "title": "Alertas Instantáneas",
+        "description": "Recibe notificaciones inmediatas cuando alguien escanee la etiqueta de tu mascota"
+      },
+      "location": {
+        "title": "Actualizaciones de Ubicación",
+        "description": "Recibe datos de ubicación en tiempo real cuando encuentren a tu mascota"
+      }
+    }
+  },
+  "stats": {
+    "happyOwners": {
+      "value": "50,000+",
+      "label": "Dueños Felices"
+    },
+    "petsProtected": {
+      "value": "10,000+",
+      "label": "Mascotas Protegidas"
+    },
+    "reunions": {
+      "value": "5,000+",
+      "label": "Reencuentros Exitosos"
+    },
+    "uptime": {
+      "value": "99.9%",
+      "label": "Confiabilidad"
+    }
+  },
+  "testimonials": {
+    "title": "Confiado por Dueños de Mascotas en Todo el Mundo",
+    "description": "Únete a miles de dueños de mascotas felices que confían en SmartPet Tag para mantener seguros a sus amigos peludos.",
+    "reviews": {
+      "sarah": {
+        "name": "Sarah Johnson",
+        "location": "Nueva York, NY",
+        "text": "SmartPet Tag me ayudó a encontrar a mi perra Luna en cuestión de horas cuando se perdió durante nuestras vacaciones. ¡Las notificaciones instantáneas y la función de ubicación GPS son increíbles!"
+      },
+      "michael": {
+        "name": "Michael Chen",
+        "location": "San Francisco, CA",
+        "text": "Como veterinario, recomiendo SmartPet Tag a todos mis clientes. Es la solución de identificación de mascotas más confiable y tecnológicamente avanzada que he visto."
+      },
+      "emily": {
+        "name": "Emily Rodriguez",
+        "location": "Miami, FL",
+        "text": "La tranquilidad que me da esta etiqueta no tiene precio. Saber que cualquiera que encuentre a mi gato puede acceder instantáneamente a su información médica y contactarme es muy reconfortante."
+      }
+    }
+  },
+  "blog": {
+    "title": "Últimas Noticias de Nuestro Blog",
+    "description": "Mantente informado con los últimos consejos de cuidado de mascotas y actualizaciones tecnológicas.",
+    "readMore": "Leer Más",
+    "posts": {
+      "travelTips": {
+        "title": "5 Consejos para Mantener a tu Mascota Segura Mientras Viajas",
+        "excerpt": "Consejos esenciales para dueños de mascotas que aman viajar con sus amigos peludos.",
+        "category": "Seguridad",
+        "readTime": "5 min de lectura"
+      },
+      "gameChanger": {
+        "title": "Por Qué SmartPet Tag es Revolucionario para Dueños de Mascotas",
+        "excerpt": "Descubre cómo la tecnología moderna está revolucionando la identificación y seguridad de mascotas.",
+        "category": "Tecnología",
+        "readTime": "4 min de lectura"
+      },
+      "comparison": {
+        "title": "Entendiendo Microchips vs. Etiquetas Inteligentes",
+        "excerpt": "Una comparación completa de diferentes métodos de identificación de mascotas.",
+        "category": "Educación",
+        "readTime": "6 min de lectura"
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Encuentra respuestas a preguntas comunes sobre SmartPet Tag.",
+    "questions": {
+      "updateInfo": {
+        "question": "¿Cómo actualizo la información de mi mascota?",
+        "answer": "Simplemente inicia sesión en tu cuenta de SmartPet Tag y actualiza el perfil de tu mascota. Los cambios son instantáneos y estarán disponibles inmediatamente cuando alguien escanee la etiqueta de tu mascota."
+      },
+      "waterproof": {
+        "question": "¿Es el SmartPet Tag resistente al agua?",
+        "answer": "¡Sí! Nuestras etiquetas son completamente impermeables y están diseñadas para resistir todas las condiciones climáticas y estilos de vida activos de las mascotas."
+      },
+      "foundPet": {
+        "question": "¿Qué sucede si alguien encuentra a mi mascota?",
+        "answer": "Cuando alguien escanea la etiqueta de tu mascota, verá su perfil con la información de contacto que hayas elegido mostrar. Recibirás una notificación instantánea con su ubicación."
+      },
+      "smartphone": {
+        "question": "¿Necesito un smartphone para usar SmartPet Tag?",
+        "answer": "Si bien un smartphone facilita la gestión del perfil de tu mascota, cualquier persona con un dispositivo que pueda escanear códigos QR o leer etiquetas NFC puede acceder a la información de tu mascota en una emergencia."
+      },
+      "damaged": {
+        "question": "¿Qué pasa si la etiqueta se daña o se pierde?",
+        "answer": "Ofrecemos un reemplazo gratuito único dentro del primer año. Después de eso, puedes pedir fácilmente una etiqueta de reemplazo y transferir el perfil de tu mascota a la nueva etiqueta."
+      },
+      "security": {
+        "question": "¿Está segura la información de mi mascota?",
+        "answer": "¡Sí! Tú controlas exactamente qué información es visible al público. Los detalles sensibles están encriptados y protegidos con seguridad de nivel bancario."
+      }
+    }
+  },
+  "newsletter": {
+    "title": "Únete a Nuestra Comunidad",
+    "description": "Suscríbete para recibir consejos de cuidado de mascotas, actualizaciones de productos y ofertas exclusivas. ¡Obtén un 10% de descuento en tu primer SmartPet Tag!",
+    "placeholder": "Ingresa tu email",
+    "button": "Suscribirse",
+    "disclaimer": "Al suscribirte, aceptas nuestra Política de Privacidad y Términos de Servicio."
+  },
+  "footer": {
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nosotros",
+      "careers": "Carreras",
+      "press": "Prensa",
+      "blog": "Blog"
+    },
+    "product": {
+      "title": "Producto",
+      "features": "Características",
+      "pricing": "Precios",
+      "howItWorks": "Cómo Funciona",
+      "faq": "Preguntas Frecuentes"
+    },
+    "resources": {
+      "title": "Recursos",
+      "petSafety": "Guía de Seguridad",
+      "support": "Centro de Soporte",
+      "partners": "Socios",
+      "contact": "Contacto"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies",
+      "shipping": "Política de Envío"
+    },
+    "tagline": "Revolucionando la seguridad de las mascotas con tecnología inteligente. Mantén a tus amigos peludos seguros y conectados, en cualquier parte del mundo.",
+    "copyright": "© {year} SmartPet Tag. Todos los derechos reservados."
+  },
+  "language": {
+    "en": "English",
+    "es": "Español"
+  }
+}
