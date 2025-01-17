@@ -8,8 +8,16 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   server: {
+    host: '0.0.0.0',
     port: 5173,
-    host: true, // This enables listening on all network interfaces
-    strictPort: true // This ensures Vite only uses the specified port
+    strictPort: true,
+    watch: {
+      usePolling: true
+    }
+  },
+  preview: {
+    host: '0.0.0.0',
+    port: 5173,
+    strictPort: true
   }
 });
