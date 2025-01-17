@@ -29,7 +29,7 @@ npm ci
 npm run dev
 ```
 
-The application will be available at `http://localhost:5473`
+The application will be available at `http://localhost:5173`
 
 ## Docker Setup
 
@@ -40,10 +40,14 @@ docker build -t pet-landing-bolt .
 
 2. Run the container:
 ```bash
-docker run -p 5473:5473 pet-landing-bolt
+# For local access only
+docker run -p 5173:5173 pet-landing-bolt
+
+# To expose to network
+docker run -p 5173:5173 -e VITE_ALLOW_NETWORK=true pet-landing-bolt
 ```
 
-The application will be available at `http://localhost:5473`
+The application will be available at `http://localhost:5173`
 
 ## Available Scripts
 
@@ -63,4 +67,3 @@ pet-landing-bolt/
 ├── Dockerfile      # Docker configuration
 ├── package.json    # Project dependencies and scripts
 └── vite.config.ts  # Vite configuration
-```
