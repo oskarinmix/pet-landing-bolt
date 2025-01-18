@@ -21,7 +21,7 @@ export default function HeroV2() {
               <Tag className="h-5 w-5 mr-2 text-accent-400" />
               <span className="text-sm font-medium">{t('hero.trusted')}</span>
             </div>
-            
+
             <h1 className="text-5xl lg:text-7xl font-bold mb-6 leading-tight">
               {t('hero.title')}{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-accent-400 to-accent-500">
@@ -33,7 +33,7 @@ export default function HeroV2() {
               {t('hero.description')}
             </p>
 
-            <div className="flex flex-wrap gap-4 mb-12">
+            <div className="flex flex-wrap gap-2 lg:gap-4 mb-12 items-center justify-center lg:justify-start lg:items-start">
               <button className="btn-primary bg-accent-500 hover:bg-accent-600 group">
                 {t('hero.shopNow')}
                 <Zap className="ml-2 h-5 w-5 group-hover:animate-bounce" />
@@ -44,7 +44,7 @@ export default function HeroV2() {
               </button>
             </div>
 
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-8">
+            <div className="grid grid-cols-3 md:grid-cols-3 gap-8">
               <div className="text-center">
                 <div className="text-3xl font-bold mb-1">50K+</div>
                 <div className="text-sm text-white/70">{t('hero.stats.happyPets')}</div>
@@ -60,17 +60,17 @@ export default function HeroV2() {
             </div>
           </div>
 
-          <div className="relative hidden lg:block">
+          <div className="relative mt-8 lg:mt-0">
             <div className="absolute inset-0 bg-gradient-to-br from-primary-500/20 to-secondary-500/20 rounded-full blur-3xl animate-float" />
             <img
               src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e"
               alt="Happy dog with smart tag"
-              className="relative rounded-3xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
+              className="relative w-full h-[300px] sm:h-[400px] lg:h-auto object-cover rounded-2xl lg:rounded-3xl shadow-2xl transform hover:scale-105 transition-transform duration-500"
             />
-            <div className="absolute -bottom-8 -left-8 bg-white rounded-2xl p-4 shadow-xl">
-              <Shield className="h-8 w-8 text-primary-600 mb-2" />
-              <div className="text-sm font-semibold text-gray-900">100% Safe & Secure</div>
-              <div className="text-xs text-gray-600">Bank-level encryption</div>
+            <div className="absolute -bottom-4 sm:-bottom-8 -left-4 sm:-left-8 bg-white rounded-xl lg:rounded-2xl p-3 sm:p-4 shadow-xl">
+              <Shield className="h-6 w-6 sm:h-8 sm:w-8 text-primary-600 mb-1.5 sm:mb-2" />
+              <div className="text-sm sm:text-base font-semibold text-gray-900">100% Safe & Secure</div>
+              <div className="text-xs sm:text-sm text-gray-600">Bank-level encryption</div>
             </div>
           </div>
         </div>
